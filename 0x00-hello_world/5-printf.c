@@ -1,3 +1,4 @@
+gcc -E $Wall -o is a piece of file
 #include <stdio.h>
 /**
  * main - Entry now
