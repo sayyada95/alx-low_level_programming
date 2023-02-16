@@ -1,8 +1,7 @@
-gcc -E $Wall -o is a piece of file
 #include <stdio.h>
 /**
  * main - Entry now
- * Return: Always 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
