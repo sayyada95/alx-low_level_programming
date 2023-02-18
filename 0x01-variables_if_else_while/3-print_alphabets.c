@@ -11,6 +11,10 @@ int main(void)
 	{
 		putchar(lc);
 	}
+	for (lc = 'A'; lc <= 'Z'; ch++)
+	{
+		putchar (lc);
+	}
 	putchar('\n');
 	return (0);
 }
