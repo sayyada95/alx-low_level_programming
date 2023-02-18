@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * menu - prints the numbers in base 16
+ * main - prints the numbers in base 16
  * Return: Always 0
  */
 int miain(void)
