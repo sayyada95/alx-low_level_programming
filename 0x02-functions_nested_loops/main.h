@@ -12,11 +12,7 @@ int print_last_digit(int);
 void jack_bauer(void);
 void times_table(void);
 int add(int, int);
-<<<<<<< HEAD
 void print_to_98(int n);
-=======
-void print_to_98(int, n);
->>>>>>> 88ff3d4b10435d52fbfff7f2f2355d89ac5853af
 void print_times_table(int n);
 
 #endif
